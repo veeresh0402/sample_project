@@ -1,6 +1,2 @@
 sample V1
 I am in V1
-I am in develop branch V1
-
-
-
